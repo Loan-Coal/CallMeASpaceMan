@@ -1,0 +1,4 @@
+pandas>=2.2
+rapidfuzz>=3.9
+rdflib>=7.0
+SPARQLWrapper>=2.0

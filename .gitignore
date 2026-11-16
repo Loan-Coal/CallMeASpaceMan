@@ -1,0 +1,17 @@
+# Raw source data: third-party licences (Kaggle, ESCO), re-downloadable — see data/raw/README.md
+data/raw/*
+!data/raw/README.md
+
+# Course material (teacher's slides) — not ours to publish
+*.pdf
+
+# Tools (downloaded jars)
+tools/*.jar
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Secrets (LLM API keys)
+.env
