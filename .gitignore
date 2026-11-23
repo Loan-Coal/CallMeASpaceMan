@@ -15,3 +15,6 @@ __pycache__/
 
 # Secrets (LLM API keys)
 .env
+
+# Dataset archives (too large for GitHub; download per data/raw/README.md)
+*.zip
