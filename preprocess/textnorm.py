@@ -6,7 +6,11 @@ so the two sides must be normalized by the exact same function — hence one mod
 Kept deliberately minimal (each rule is a report line):
 - lowercase, trim, collapse whitespace       -> "Data  Analysis " == "data analysis"
 - "&" -> "and"                               -> "Research & Design" == "research and design"
-- drop surrounding sentence punctuation      -> "SQL." == "sql"  (but "C++" / "C#" are kept intact)
+- drop surrounding sentence punctuation      -> "SQL." == "sql"  (but "C++", "C#", ".NET" are kept intact)
+- drop parenthesised qualifiers              -> "Python (computer programming)" == "python", "Database (DBMS)" == "database"
+- drop a trailing " programming"             -> "Python Programming" == "python", "R Programming" == "r"
+  (gate 23/11: exact coverage of skill mentions 18.6% -> 21.4%; applied to both sides, so the
+   ESCO label "computer programming" -> "computer" still matches Coursera's "Computer Programming")
 No singularization: naive suffix stripping breaks words ("analysis" -> "analysi").
 """
 
@@ -15,13 +19,17 @@ from __future__ import annotations
 import re
 
 _SPACES = re.compile(r"\s+")
-_EDGE_PUNCT = re.compile(r"""^[\s.,;:!?"'()\[\]-]+|[\s.,;:!?"'()\[\]-]+$""")
+_PARENTHESES = re.compile(r"\([^)]*\)")
+_LEADING_PUNCT = re.compile(r"""^[\s,;:!?"'()\[\]-]+""")  # no "." here: keeps ".net"
+_TRAILING_PUNCT = re.compile(r"""[\s.,;:!?"'()\[\]-]+$""")
+_TRAILING_PROGRAMMING = re.compile(r"(?<=\S) programming$")
 
 
 def normalize(label: str) -> str:
-    text = label.lower().replace("&", " and ")
+    text = _PARENTHESES.sub(" ", label.lower()).replace("&", " and ")
     text = _SPACES.sub(" ", text).strip()
-    return _EDGE_PUNCT.sub("", text)
+    text = _TRAILING_PUNCT.sub("", _LEADING_PUNCT.sub("", text))
+    return _TRAILING_PROGRAMMING.sub("", text)
 
 
 def slugify(label: str) -> str:

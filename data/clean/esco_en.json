@@ -425067,10 +425067,6 @@
    "norm": "absorb"
   },
   {
-   "uri": "http://data.europa.eu/esco/skill/0189f448-179e-47cc-9716-c5c3ac4b1aec",
-   "norm": "absorb (learning management systems"
-  },
-  {
    "uri": "http://data.europa.eu/esco/skill/0194a8eb-c262-411a-ad3f-f3d587630562",
    "norm": "fulfil administrative duties on a small vessel"
   },
@@ -437476,10 +437472,6 @@
   },
   {
    "uri": "http://data.europa.eu/esco/skill/09cf2c34-6f93-4a19-a9f1-c0d866414bcc",
-   "norm": "cain and abel (penetration testing tool"
-  },
-  {
-   "uri": "http://data.europa.eu/esco/skill/09cf2c34-6f93-4a19-a9f1-c0d866414bcc",
    "norm": "cain and abel password recovery tool"
   },
   {
@@ -442320,10 +442312,6 @@
   },
   {
    "uri": "http://data.europa.eu/esco/skill/0c9f20cb-32fb-4ff7-877e-508762791151",
-   "norm": "rage (digital game creation systems"
-  },
-  {
-   "uri": "http://data.europa.eu/esco/skill/0c9f20cb-32fb-4ff7-877e-508762791151",
    "norm": "rage for digital game creation"
   },
   {
@@ -442601,10 +442589,6 @@
   {
    "uri": "http://data.europa.eu/esco/skill/0ccdfe98-f845-4598-84a1-3dca66e9d9a3",
    "norm": "ruby"
-  },
-  {
-   "uri": "http://data.europa.eu/esco/skill/0ccdfe98-f845-4598-84a1-3dca66e9d9a3",
-   "norm": "ruby (computer programming"
   },
   {
    "uri": "http://data.europa.eu/esco/skill/0cd07ad3-642c-4073-812f-3842dffcd920",
@@ -451624,10 +451608,6 @@
   },
   {
    "uri": "http://data.europa.eu/esco/skill/12c82224-6394-4c3c-9831-2a8198ed1274",
-   "norm": "a9t9) freeocr"
-  },
-  {
-   "uri": "http://data.europa.eu/esco/skill/12c82224-6394-4c3c-9831-2a8198ed1274",
    "norm": "anydoc software"
   },
   {
@@ -452636,15 +452616,15 @@
   },
   {
    "uri": "http://data.europa.eu/esco/skill/137833bd-aa42-47b5-8005-dd004060c8b5",
+   "norm": "airport"
+  },
+  {
+   "uri": "http://data.europa.eu/esco/skill/137833bd-aa42-47b5-8005-dd004060c8b5",
    "norm": "airport operational planning"
   },
   {
    "uri": "http://data.europa.eu/esco/skill/137833bd-aa42-47b5-8005-dd004060c8b5",
    "norm": "airport planning"
-  },
-  {
-   "uri": "http://data.europa.eu/esco/skill/137833bd-aa42-47b5-8005-dd004060c8b5",
-   "norm": "airport programming"
   },
   {
    "uri": "http://data.europa.eu/esco/skill/137833bd-aa42-47b5-8005-dd004060c8b5",
@@ -453036,7 +453016,7 @@
   },
   {
    "uri": "http://data.europa.eu/esco/skill/13bdd41a-2a18-441f-96db-41252c519413",
-   "norm": "net"
+   "norm": ".net"
   },
   {
    "uri": "http://data.europa.eu/esco/skill/13bdd41a-2a18-441f-96db-41252c519413",
@@ -455240,7 +455220,7 @@
   },
   {
    "uri": "http://data.europa.eu/esco/skill/14db3283-8b66-4649-9192-41defda9c33e",
-   "norm": "personalise sport programming"
+   "norm": "personalise sport"
   },
   {
    "uri": "http://data.europa.eu/esco/skill/14db3283-8b66-4649-9192-41defda9c33e",
@@ -462636,10 +462616,6 @@
   },
   {
    "uri": "http://data.europa.eu/esco/skill/19a8293b-8e95-4de3-983f-77484079c389",
-   "norm": "java (computer programming"
-  },
-  {
-   "uri": "http://data.europa.eu/esco/skill/19a8293b-8e95-4de3-983f-77484079c389",
    "norm": "java 2"
   },
   {
@@ -467385,10 +467361,6 @@
   {
    "uri": "http://data.europa.eu/esco/skill/1c7fbce8-741b-416a-8b34-f9900e0ddd52",
    "norm": "shiva"
-  },
-  {
-   "uri": "http://data.europa.eu/esco/skill/1c7fbce8-741b-416a-8b34-f9900e0ddd52",
-   "norm": "shiva (digital game creation systems"
   },
   {
    "uri": "http://data.europa.eu/esco/skill/1c8327dd-9af0-4124-9c4e-0342d90189d4",
@@ -475584,7 +475556,7 @@
   },
   {
    "uri": "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
-   "norm": "computer programming"
+   "norm": "computer"
   },
   {
    "uri": "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
@@ -481868,7 +481840,7 @@
   },
   {
    "uri": "http://data.europa.eu/esco/skill/25b291b5-8245-4d9d-b391-86a8a31d7109",
-   "norm": "use concurrent programming"
+   "norm": "use concurrent"
   },
   {
    "uri": "http://data.europa.eu/esco/skill/25b291b5-8245-4d9d-b391-86a8a31d7109",
@@ -492719,10 +492691,6 @@
    "norm": "prolog"
   },
   {
-   "uri": "http://data.europa.eu/esco/skill/2bde42ae-e776-41c1-9ded-b07b30bfe985",
-   "norm": "prolog (computer programming"
-  },
-  {
    "uri": "http://data.europa.eu/esco/skill/2be2d20e-1191-4f85-8f8c-d49a60ca428a",
    "norm": "educate on recycling regulations"
   },
@@ -493516,27 +493484,27 @@
   },
   {
    "uri": "http://data.europa.eu/esco/skill/2c4e11ef-da18-4e19-816b-e6bc19e12424",
-   "norm": "employ answer set programming"
+   "norm": "employ answer set"
   },
   {
    "uri": "http://data.europa.eu/esco/skill/2c4e11ef-da18-4e19-816b-e6bc19e12424",
-   "norm": "employ ict tools for logic programming"
+   "norm": "employ ict tools for logic"
   },
   {
    "uri": "http://data.europa.eu/esco/skill/2c4e11ef-da18-4e19-816b-e6bc19e12424",
-   "norm": "use datalog for logic programming"
+   "norm": "use datalog for logic"
   },
   {
    "uri": "http://data.europa.eu/esco/skill/2c4e11ef-da18-4e19-816b-e6bc19e12424",
-   "norm": "use logic programming"
+   "norm": "use logic"
   },
   {
    "uri": "http://data.europa.eu/esco/skill/2c4e11ef-da18-4e19-816b-e6bc19e12424",
-   "norm": "use prolog for logic programming"
+   "norm": "use prolog for logic"
   },
   {
    "uri": "http://data.europa.eu/esco/skill/2c4e11ef-da18-4e19-816b-e6bc19e12424",
-   "norm": "utilise ict tools for logic programming"
+   "norm": "utilise ict tools for logic"
   },
   {
    "uri": "http://data.europa.eu/esco/skill/2c5a77db-31da-418d-845b-14a6aaf721d6",
@@ -527568,10 +527536,6 @@
   },
   {
    "uri": "http://data.europa.eu/esco/skill/42ed3bfb-1a01-4c8b-9758-fc6438865734",
-   "norm": "smalltalk (computer programming"
-  },
-  {
-   "uri": "http://data.europa.eu/esco/skill/42ed3bfb-1a01-4c8b-9758-fc6438865734",
    "norm": "smalltalk programming system"
   },
   {
@@ -534800,10 +534764,6 @@
   },
   {
    "uri": "http://data.europa.eu/esco/skill/47b9bbcf-356c-4782-83a4-7f5a1b2b51a3",
-   "norm": "assembly (computer programming"
-  },
-  {
-   "uri": "http://data.europa.eu/esco/skill/47b9bbcf-356c-4782-83a4-7f5a1b2b51a3",
    "norm": "assembly algorithms"
   },
   {
@@ -538248,7 +538208,7 @@
   },
   {
    "uri": "http://data.europa.eu/esco/skill/49f85a99-086c-45b6-a6fa-eb90305af7b1",
-   "norm": "chef (tools for software configuration management"
+   "norm": "chef"
   },
   {
    "uri": "http://data.europa.eu/esco/skill/49f85a99-086c-45b6-a6fa-eb90305af7b1",
@@ -538701,10 +538661,6 @@
   {
    "uri": "http://data.europa.eu/esco/skill/4a466c62-db7d-4905-9a41-f23214810acb",
    "norm": "gimp"
-  },
-  {
-   "uri": "http://data.europa.eu/esco/skill/4a466c62-db7d-4905-9a41-f23214810acb",
-   "norm": "gimp (graphics editor software"
   },
   {
    "uri": "http://data.europa.eu/esco/skill/4a466c62-db7d-4905-9a41-f23214810acb",
@@ -544368,7 +544324,7 @@
   },
   {
    "uri": "http://data.europa.eu/esco/skill/4da171e5-779c-4983-a76f-91c16751e99f",
-   "norm": "mysql embedded (oem/isv"
+   "norm": "mysql embedded"
   },
   {
    "uri": "http://data.europa.eu/esco/skill/4da171e5-779c-4983-a76f-91c16751e99f",
@@ -558075,10 +558031,6 @@
    "norm": "aircrack"
   },
   {
-   "uri": "http://data.europa.eu/esco/skill/557e9247-1a2d-4497-aa7f-0cded7768da1",
-   "norm": "aircrack (penetration testing tool"
-  },
-  {
    "uri": "http://data.europa.eu/esco/skill/558337fa-2e6a-4733-ba02-3bc00a7ca26e",
    "norm": "latches"
   },
@@ -562277,10 +562229,6 @@
   {
    "uri": "http://data.europa.eu/esco/skill/58783f72-5098-4807-b1d1-954ec2ae94c4",
    "norm": "backbox"
-  },
-  {
-   "uri": "http://data.europa.eu/esco/skill/58783f72-5098-4807-b1d1-954ec2ae94c4",
-   "norm": "backbox (penetration testing tool"
   },
   {
    "uri": "http://data.europa.eu/esco/skill/587f6825-0ef1-4fb0-8425-71a50d786a37",
@@ -567588,11 +567536,11 @@
   },
   {
    "uri": "http://data.europa.eu/esco/skill/5b9cde20-f1b9-4adc-bfb3-dbf70b14138d",
-   "norm": "use object-oriented programming"
+   "norm": "use object-oriented"
   },
   {
    "uri": "http://data.europa.eu/esco/skill/5b9cde20-f1b9-4adc-bfb3-dbf70b14138d",
-   "norm": "utilise object-oriented programming"
+   "norm": "utilise object-oriented"
   },
   {
    "uri": "http://data.europa.eu/esco/skill/5ba1d5b9-3f8d-46ca-bf9f-2e9ca65d1350",
@@ -572600,7 +572548,7 @@
   },
   {
    "uri": "http://data.europa.eu/esco/skill/5ef0c719-5bcb-49f8-b8eb-824388225333",
-   "norm": "use scripting programming"
+   "norm": "use scripting"
   },
   {
    "uri": "http://data.europa.eu/esco/skill/5ef628ac-c5a1-4150-a115-f864343dcb24",
@@ -575069,10 +575017,6 @@
   {
    "uri": "http://data.europa.eu/esco/skill/604f62cc-0f04-4903-b9f9-7128f72d4e5a",
    "norm": "brightspace"
-  },
-  {
-   "uri": "http://data.europa.eu/esco/skill/604f62cc-0f04-4903-b9f9-7128f72d4e5a",
-   "norm": "brightspace (learning management systems"
   },
   {
    "uri": "http://data.europa.eu/esco/skill/604f62cc-0f04-4903-b9f9-7128f72d4e5a",
@@ -581217,10 +581161,6 @@
   {
    "uri": "http://data.europa.eu/esco/skill/6417a4cc-6f61-4459-a114-761a7fa0279d",
    "norm": "puppet"
-  },
-  {
-   "uri": "http://data.europa.eu/esco/skill/6417a4cc-6f61-4459-a114-761a7fa0279d",
-   "norm": "puppet (tools for software configuration management"
   },
   {
    "uri": "http://data.europa.eu/esco/skill/641bc86f-42ca-44e9-af8b-4f9e1f284e41",
@@ -590148,11 +590088,11 @@
   },
   {
    "uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
-   "norm": "markup programming"
+   "norm": "markup"
   },
   {
    "uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
-   "norm": "web programming"
+   "norm": "web"
   },
   {
    "uri": "http://data.europa.eu/esco/skill/69bece91-c806-42ad-bde4-db28c7f8fc4b",
@@ -592804,10 +592744,6 @@
   },
   {
    "uri": "http://data.europa.eu/esco/skill/6b6a9252-2ed7-4862-a02f-1578f4a532ea",
-   "norm": "eclipse (integrated development environment software"
-  },
-  {
-   "uri": "http://data.europa.eu/esco/skill/6b6a9252-2ed7-4862-a02f-1578f4a532ea",
    "norm": "eclipse ide"
   },
   {
@@ -594640,7 +594576,7 @@
   },
   {
    "uri": "http://data.europa.eu/esco/skill/6c80d53c-d8c9-41fe-998f-091fca208834",
-   "norm": "itworx clg (connected learning gateway"
+   "norm": "itworx clg"
   },
   {
    "uri": "http://data.europa.eu/esco/skill/6c80d53c-d8c9-41fe-998f-091fca208834",
@@ -618491,10 +618427,6 @@
    "norm": "john the ripper"
   },
   {
-   "uri": "http://data.europa.eu/esco/skill/7bf4539a-3f2e-4485-876b-1c9306b181af",
-   "norm": "john the ripper (penetration testing tool"
-  },
-  {
    "uri": "http://data.europa.eu/esco/skill/7c02513e-c23b-4686-8bdd-1ad99de5a8eb",
    "norm": "import export licenses management"
   },
@@ -620392,11 +620324,11 @@
   },
   {
    "uri": "http://data.europa.eu/esco/skill/7d10fcb2-b368-48ab-996b-7c9fafcf68ed",
-   "norm": "use automatic programming"
+   "norm": "use automatic"
   },
   {
    "uri": "http://data.europa.eu/esco/skill/7d10fcb2-b368-48ab-996b-7c9fafcf68ed",
-   "norm": "use visual programming"
+   "norm": "use visual"
   },
   {
    "uri": "http://data.europa.eu/esco/skill/7d11f682-644f-44fa-ad08-d6b0d97d2f28",
@@ -625608,7 +625540,7 @@
   },
   {
    "uri": "http://data.europa.eu/esco/skill/802e6973-3270-4cf0-86e4-a6835caf1ba6",
-   "norm": "project management methodology (pm²"
+   "norm": "project management methodology"
   },
   {
    "uri": "http://data.europa.eu/esco/skill/802e6973-3270-4cf0-86e4-a6835caf1ba6",
@@ -671360,6 +671292,10 @@
   },
   {
    "uri": "http://data.europa.eu/esco/skill/9cf681c7-89ec-470c-b651-7fe03786f586",
+   "norm": ".ql"
+  },
+  {
+   "uri": "http://data.europa.eu/esco/skill/9cf681c7-89ec-470c-b651-7fe03786f586",
    "norm": "concept-oriented"
   },
   {
@@ -671417,10 +671353,6 @@
   {
    "uri": "http://data.europa.eu/esco/skill/9cf681c7-89ec-470c-b651-7fe03786f586",
    "norm": "poliqarp"
-  },
-  {
-   "uri": "http://data.europa.eu/esco/skill/9cf681c7-89ec-470c-b651-7fe03786f586",
-   "norm": "ql"
   },
   {
    "uri": "http://data.europa.eu/esco/skill/9cf681c7-89ec-470c-b651-7fe03786f586",
@@ -682532,10 +682464,6 @@
   },
   {
    "uri": "http://data.europa.eu/esco/skill/a4d336a6-9ffd-402a-91cc-f359716ba4e0",
-   "norm": "ml (computer programming"
-  },
-  {
-   "uri": "http://data.europa.eu/esco/skill/a4d336a6-9ffd-402a-91cc-f359716ba4e0",
    "norm": "ml development principles"
   },
   {
@@ -691524,47 +691452,47 @@
   },
   {
    "uri": "http://data.europa.eu/esco/skill/aab001d9-6d45-4f06-9976-9c1e0c253e3f",
-   "norm": "check broadcast programming"
+   "norm": "check broadcast"
   },
   {
    "uri": "http://data.europa.eu/esco/skill/aab001d9-6d45-4f06-9976-9c1e0c253e3f",
-   "norm": "consult broadcast programming"
+   "norm": "consult broadcast"
   },
   {
    "uri": "http://data.europa.eu/esco/skill/aab001d9-6d45-4f06-9976-9c1e0c253e3f",
-   "norm": "manage programming"
+   "norm": "manage"
   },
   {
    "uri": "http://data.europa.eu/esco/skill/aab001d9-6d45-4f06-9976-9c1e0c253e3f",
-   "norm": "monitor broadcast programming"
+   "norm": "monitor"
   },
   {
    "uri": "http://data.europa.eu/esco/skill/aab001d9-6d45-4f06-9976-9c1e0c253e3f",
-   "norm": "monitor programming"
+   "norm": "monitor broadcast"
   },
   {
    "uri": "http://data.europa.eu/esco/skill/aab001d9-6d45-4f06-9976-9c1e0c253e3f",
-   "norm": "monitoring programming"
+   "norm": "monitoring"
   },
   {
    "uri": "http://data.europa.eu/esco/skill/aab001d9-6d45-4f06-9976-9c1e0c253e3f",
-   "norm": "oversee programming"
+   "norm": "oversee"
   },
   {
    "uri": "http://data.europa.eu/esco/skill/aab001d9-6d45-4f06-9976-9c1e0c253e3f",
-   "norm": "read broadcast programming"
+   "norm": "read"
   },
   {
    "uri": "http://data.europa.eu/esco/skill/aab001d9-6d45-4f06-9976-9c1e0c253e3f",
-   "norm": "read programming"
+   "norm": "read broadcast"
   },
   {
    "uri": "http://data.europa.eu/esco/skill/aab001d9-6d45-4f06-9976-9c1e0c253e3f",
-   "norm": "review broadcast programming"
+   "norm": "review broadcast"
   },
   {
    "uri": "http://data.europa.eu/esco/skill/aab001d9-6d45-4f06-9976-9c1e0c253e3f",
-   "norm": "supervise programming"
+   "norm": "supervise"
   },
   {
    "uri": "http://data.europa.eu/esco/skill/aac5a97b-4062-4aad-9ee3-4ea54047aa08",
@@ -701096,15 +701024,15 @@
   },
   {
    "uri": "http://data.europa.eu/esco/skill/b105ec9b-0857-41d6-8d07-a83e58b73d90",
-   "norm": "ict system programming"
+   "norm": "ict system"
   },
   {
    "uri": "http://data.europa.eu/esco/skill/b105ec9b-0857-41d6-8d07-a83e58b73d90",
-   "norm": "network programming"
+   "norm": "network"
   },
   {
    "uri": "http://data.europa.eu/esco/skill/b105ec9b-0857-41d6-8d07-a83e58b73d90",
-   "norm": "server side programming"
+   "norm": "server side"
   },
   {
    "uri": "http://data.europa.eu/esco/skill/b1084057-66a7-4ab6-8162-41c4e74d00cb",
@@ -712808,10 +712736,6 @@
   },
   {
    "uri": "http://data.europa.eu/esco/skill/b8eb2517-37d8-43e6-9856-9c29d5c51fde",
-   "norm": "filemaker (database management systems"
-  },
-  {
-   "uri": "http://data.europa.eu/esco/skill/b8eb2517-37d8-43e6-9856-9c29d5c51fde",
    "norm": "filemaker go"
   },
   {
@@ -720144,10 +720068,6 @@
   },
   {
    "uri": "http://data.europa.eu/esco/skill/be149bed-a789-48ee-832b-620ccf776af9",
-   "norm": "frostbite (digital game creation systems"
-  },
-  {
-   "uri": "http://data.europa.eu/esco/skill/be149bed-a789-48ee-832b-620ccf776af9",
    "norm": "frostbite 1.5"
   },
   {
@@ -720769,10 +720689,6 @@
   {
    "uri": "http://data.europa.eu/esco/skill/be80acfc-b6f2-4411-9b8d-b19d9cd2556a",
    "norm": "swift"
-  },
-  {
-   "uri": "http://data.europa.eu/esco/skill/be80acfc-b6f2-4411-9b8d-b19d9cd2556a",
-   "norm": "swift (computer programming"
   },
   {
    "uri": "http://data.europa.eu/esco/skill/be80acfc-b6f2-4411-9b8d-b19d9cd2556a",
@@ -735203,10 +735119,6 @@
    "norm": "salt"
   },
   {
-   "uri": "http://data.europa.eu/esco/skill/c7451027-8249-405a-bb1b-342ff0f3fb3b",
-   "norm": "salt (tools for software configuration management"
-  },
-  {
    "uri": "http://data.europa.eu/esco/skill/c747ab82-9c35-4bf6-ab90-b50b9a53d292",
    "norm": "clean food preparation area"
   },
@@ -737725,10 +737637,6 @@
   {
    "uri": "http://data.europa.eu/esco/skill/c8d53d69-d900-4092-af80-c5d0422bcdb3",
    "norm": "source"
-  },
-  {
-   "uri": "http://data.europa.eu/esco/skill/c8d53d69-d900-4092-af80-c5d0422bcdb3",
-   "norm": "source (digital game creation systems"
   },
   {
    "uri": "http://data.europa.eu/esco/skill/c8d53d69-d900-4092-af80-c5d0422bcdb3",
@@ -744340,10 +744248,6 @@
   },
   {
    "uri": "http://data.europa.eu/esco/skill/ccd0a1d9-afda-43d9-b901-96344886e14d",
-   "norm": "python (computer programming"
-  },
-  {
-   "uri": "http://data.europa.eu/esco/skill/ccd0a1d9-afda-43d9-b901-96344886e14d",
    "norm": "python 3k"
   },
   {
@@ -745936,10 +745840,6 @@
   },
   {
    "uri": "http://data.europa.eu/esco/skill/ce26e71f-2d47-474e-89b6-7920931ac4fc",
-   "norm": "ios (operating system"
-  },
-  {
-   "uri": "http://data.europa.eu/esco/skill/ce26e71f-2d47-474e-89b6-7920931ac4fc",
    "norm": "ipados"
   },
   {
@@ -747308,11 +747208,11 @@
   },
   {
    "uri": "http://data.europa.eu/esco/skill/cf200547-25b5-47c8-9eda-bca4aedc13fb",
-   "norm": "firmware programming"
+   "norm": "firmware"
   },
   {
    "uri": "http://data.europa.eu/esco/skill/cf200547-25b5-47c8-9eda-bca4aedc13fb",
-   "norm": "permanent software programming"
+   "norm": "permanent software"
   },
   {
    "uri": "http://data.europa.eu/esco/skill/cf200547-25b5-47c8-9eda-bca4aedc13fb",
@@ -748149,10 +748049,6 @@
   {
    "uri": "http://data.europa.eu/esco/skill/cfb8d64c-f8d7-4894-a02e-2551ab33f1d0",
    "norm": "canvas"
-  },
-  {
-   "uri": "http://data.europa.eu/esco/skill/cfb8d64c-f8d7-4894-a02e-2551ab33f1d0",
-   "norm": "canvas (learning management systems"
   },
   {
    "uri": "http://data.europa.eu/esco/skill/cfb8d64c-f8d7-4894-a02e-2551ab33f1d0",
@@ -751036,10 +750932,6 @@
   },
   {
    "uri": "http://data.europa.eu/esco/skill/d1a86399-24d8-415f-98b9-e8cbb6b04a26",
-   "norm": "unity (digital game creation systems"
-  },
-  {
-   "uri": "http://data.europa.eu/esco/skill/d1a86399-24d8-415f-98b9-e8cbb6b04a26",
    "norm": "unity 4"
   },
   {
@@ -753372,7 +753264,7 @@
   },
   {
    "uri": "http://data.europa.eu/esco/skill/d31fab87-2a7d-485c-b699-2901ca294b15",
-   "norm": "use functional programming"
+   "norm": "use functional"
   },
   {
    "uri": "http://data.europa.eu/esco/skill/d3286405-49f8-4e8a-8046-a4376b4e7963",
@@ -757129,10 +757021,6 @@
   {
    "uri": "http://data.europa.eu/esco/skill/d56fc2b5-4b0a-4e7e-9bde-a33736f6ff18",
    "norm": "scratch"
-  },
-  {
-   "uri": "http://data.europa.eu/esco/skill/d56fc2b5-4b0a-4e7e-9bde-a33736f6ff18",
-   "norm": "scratch (computer programming"
   },
   {
    "uri": "http://data.europa.eu/esco/skill/d57752ff-dc3f-45f6-908c-e97b9255f721",
@@ -761959,10 +761847,6 @@
    "norm": "android"
   },
   {
-   "uri": "http://data.europa.eu/esco/skill/d8829a1d-dbde-435b-b921-29d6462f35c9",
-   "norm": "android (mobile operating systems"
-  },
-  {
    "uri": "http://data.europa.eu/esco/skill/d886f903-88b0-4dc5-845c-ab3a9fffd0c6",
    "norm": "communicate interior faults in aircraft to managers"
   },
@@ -764924,10 +764808,6 @@
   },
   {
    "uri": "http://data.europa.eu/esco/skill/da896663-08b3-409d-aa3d-31f39a8e8d2b",
-   "norm": "perform a feasibility study on (large) biomass systems"
-  },
-  {
-   "uri": "http://data.europa.eu/esco/skill/da896663-08b3-409d-aa3d-31f39a8e8d2b",
    "norm": "perform a feasibility study on biomass systems"
   },
   {
@@ -764992,11 +764872,11 @@
   },
   {
    "uri": "http://data.europa.eu/esco/skill/daa56d49-d7d3-4ba4-9b41-8b542ecfaa27",
-   "norm": "lift controller configuration"
+   "norm": "lift controller"
   },
   {
    "uri": "http://data.europa.eu/esco/skill/daa56d49-d7d3-4ba4-9b41-8b542ecfaa27",
-   "norm": "lift controller programming"
+   "norm": "lift controller configuration"
   },
   {
    "uri": "http://data.europa.eu/esco/skill/daa56d49-d7d3-4ba4-9b41-8b542ecfaa27",
@@ -765108,7 +764988,7 @@
   },
   {
    "uri": "http://data.europa.eu/esco/skill/dad18fbb-7053-46ed-8a7e-817a10b26ab8",
-   "norm": "home alarm system programming"
+   "norm": "home alarm system"
   },
   {
    "uri": "http://data.europa.eu/esco/skill/dad18fbb-7053-46ed-8a7e-817a10b26ab8",
@@ -786139,10 +786019,6 @@
    "norm": "pascal"
   },
   {
-   "uri": "http://data.europa.eu/esco/skill/e8b89eb6-51e8-4c3a-babb-88b2e110376b",
-   "norm": "pascal (computer programming"
-  },
-  {
    "uri": "http://data.europa.eu/esco/skill/e8b93f3e-fd7f-4eaf-af8b-3f510ec70fe3",
    "norm": "neuro-psychiatry"
   },
@@ -805672,10 +805548,6 @@
   },
   {
    "uri": "http://data.europa.eu/esco/skill/f47a1998-0beb-43be-9f46-380aa4d183da",
-   "norm": "jenkins (tools for software configuration management"
-  },
-  {
-   "uri": "http://data.europa.eu/esco/skill/f47a1998-0beb-43be-9f46-380aa4d183da",
    "norm": "jenkins ci"
   },
   {
@@ -815752,7 +815624,7 @@
   },
   {
    "uri": "http://data.europa.eu/esco/skill/fafe0b9d-dbd9-46bd-b770-26299539ce66",
-   "norm": "cmmi (capability maturity model integrated"
+   "norm": "cmmi"
   },
   {
    "uri": "http://data.europa.eu/esco/skill/fafe0b9d-dbd9-46bd-b770-26299539ce66",
